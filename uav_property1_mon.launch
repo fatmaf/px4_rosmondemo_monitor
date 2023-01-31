@@ -1,0 +1,7 @@
+
+<launch>
+        
+<node pkg="monitor" type="uav_property1_online_mon.py" name="uav_property1_online_mon" output="screen"/>
+            
+</launch>
+        
